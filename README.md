@@ -23,4 +23,6 @@ Fique à vontade para explorar meus projetos e acompanhar minha evolução como 
 Vamos codificar juntos!
 Mateus Mezzomo.
 
-<img src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.lance.com.br%2Fcopa-do-mundo%2Fargentina%2Flenda-do-barcelona-diz-para-messi-se-aposentar-caso-argentina-venca-copa-do-mundo.html&psig=AOvVaw1SiazncmuccZ1EnjXtGZBZ&ust=1721168732538000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCOiCpbCLqocDFQAAAAAdAAAAABAR" width = 50%>
+
+
+<img src="https://lncimg.lance.com.br/cdn-cgi/image/width=828,quality=75,fit=pad,format=webp/uploads/2022/12/03/638ba710cd1c8.jpeg" width = 50%>
